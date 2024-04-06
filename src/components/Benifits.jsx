@@ -25,13 +25,13 @@ const Benifits = () => {
 
       </div>
       {/*  div */}
-     <div className='w-1/2 '>
-        <div className="flex flex-row ">
-            <div>
+     <div className='w-full md:w-1/2  '>
+        <div className="flex justify-between ">
+            <div className="">
             <CiClock2 className="fill-black bg-purple-300 rounded-full px-2 py-4 flex items-center justify-center w-[70px] h-[70px]"/>
             <h1 className="font-semibold font-plus-jakarta-sans text-[21px] pt-9 text-[#111827]">24/7 Availability</h1>
            <p className="text-[#111827] font-plus-jakarta-sans font-normal text-[15px] pt-4"> TaxiDaniel is at your service around
-             the clock, ensuring you have a reliable transportation option anytime.</p>
+             the clock, ensuring have a reliable transportation option anytime.</p>
             </div>
             <div>
             <RiMoneyDollarBoxLine className="fill-black bg-purple-300 rounded-full px-2 py-4 flex items-center justify-center w-[70px] h-[70px]"/>
@@ -40,7 +40,7 @@ const Benifits = () => {
             </div>
         </div>
       
-        <div className="flex flex-row pt-24 ">
+        <div className="flex justify-between pt-24 ">
             <div>
             <FaBriefcase className="fill-black bg-purple-300 rounded-full px-2 py-4 flex items-center justify-center w-[70px] h-[70px]"/>
             <h1 className="font-semibold font-plus-jakarta-sans text-[21px] pt-9 text-[#111827]">Luggage Help</h1>

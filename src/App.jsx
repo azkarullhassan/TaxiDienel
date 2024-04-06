@@ -1,5 +1,6 @@
 import About from "./components/About";
 import Benifits from "./components/Benifits";
+import Button from "./components/Button";
 import Car from "./components/Car";
 import Card from "./components/Card";
 import Footer from "./components/Footer";
@@ -13,8 +14,9 @@ import Ride from "./components/Ride";
 
 export default function App() {
   return (
-    <div div className="">
+    <div >
     <Navbar/>
+    <Button/>
  <HomeSection />
     <Card/> 
     <Ride/>

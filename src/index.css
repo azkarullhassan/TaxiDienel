@@ -7,3 +7,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+@media (max-width: 768px) {
+    .ride-image {
+      max-width: 90%; 
+    } 
+} 
+
