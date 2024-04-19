@@ -16,7 +16,7 @@ const Pic = () => {
             Your <span className='text-violet-500'>Smooth Ride</span> Starts with TaxiDaniel
           </h1>
           <p className='text-[#625D7E] text-[18px] tracking-[-0.2] font-plus-jakarta-sans font-medium'>
-            Glide into glamorous events, catch your flight with a breeze, or explore hidden city gems. TaxiDaniel is your 24/7 companion for stylish rides, expert drivers, and clean, comfortable cars. We handle the traffic, you enjoy the journey.
+            Glide into glamorous events gdhsj, catch your flight with a breeze, or explore hidden city gems. TaxiDaniel is your 24/7 companion for stylish rides, expert drivers, and clean, comfortable cars. We handle the traffic, you enjoy the journey.
           </p>
           {/* Buttons */}
           <div className='flex flex-col md:flex-row gap-4 pt-12'>
