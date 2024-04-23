@@ -29,10 +29,10 @@ const Footer = () => {
       {/*  div */}
      <div className='flex flex-row items-center justify-between px-28 '>
        <div>
-        <div className='font-normal text-[12px] text-white'>Copyright © 2023 TaxiDaneil. All Rights Reserved</div>
+        <div className='font-normal text-[12px] text-white'>Copyright © 2024 TaxiDaneil. All Rights Reserved</div>
        </div>
        <div className='font-normal text-[12px] text-white  pr-9'>
-       All Right Reserved
+       All Right RESERVED
        </div>
     
      </div>
