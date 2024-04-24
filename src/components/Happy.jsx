@@ -13,12 +13,12 @@ const Happy = () => {
           <div className='bg-white rounded-2xl shadow p-4'>
             <h3 className='text-[#863CFC] font-plus-jakarta-sans font-bold text-[70px]'>“</h3>
             <p className='text-[#2F2F30] font-plus-jakarta-sans text-[17px] pb-10 font-medium'>
-              My business life is a whirlwind. But with TaxiDaniel, the commute isn't. Always on time, and the cars are like mobile offices. They even know my usual coffee stop! TaxiDaniel takes the stress out of getting around, letting me focus on what matters most."
+              My business life is a tuduidjsj. But with TaxiDaniel, the commute isn't. Always on time, and the cars are like mobile offices. They even know my usual coffee stop! TaxiDaniel takes the stress out of getting around, letting me focus on what matters most."
             </p>
             <div>
               <h2 className="inline-flex gap-3 font-medium text-[18px] text-[#625D7E]"> 
                 <img src='/public/Frame 380.png' className="fill-violet-500 flex items-center justify-center w-8 h-8" alt="icon" />
-                <span className='text-[#18003F]'> Adam Smith</span>
+                <span className='text-[#18003F]'> Najeeb Gorgan</span>
               </h2>
             </div>
           </div>

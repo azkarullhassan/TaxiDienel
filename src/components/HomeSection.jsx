@@ -13,7 +13,7 @@ const HomeSection = () => {
         <div className='flex flex-col md:items-start items-center md:gap-6 gap-4 md:w-1/2 w-full text-center md:text-start'>
 
           <h1 className='text-[#181443] lg:text-[54px] md:text-[54px] text-[32px] font-bold'>
-            Need a lift? Just call, don't stall. <span className='text-[#6F1EF3]'> Your city awaits.</span>
+            Need a lift? Just doit, don't stall. <span className='text-[#6F1EF3]'> Your city awaits.</span>
           </h1>
           <p className='text-[#625D7E] text-[18px] tracking-[-0.2] font-medium'>Friendly drivers, comfortable rides, and no downloads required. Just one call to get you anywhere you need to go, in style and on time. Let us handle the traffic while you enjoy the view.</p>
           {/* buttons */}
