@@ -12,7 +12,7 @@ const About = () => {
         <div className='flex flex-col md:items-start items-center md:gap-6 gap-4 md:w-1/2 w-full text-center md:text-start pt-24'>
           <h3 className='text-[#873EFC] text-[20px] font-bold uppercase'>why choose us</h3>
           <h1 className='text-[#181443] lg:text-[54px] md:text-[54px] text-[50px] font-bold'>
-            Effortless Journeys Start with <span className='text-violet-500'>TaxiDaniel</span>
+            Effordable Journeys Start with us <span className='text-violet-500'>TaxiDaniel</span>
           </h1>
           <p className='text-[#625D7E] text-[18px] tracking-[-0.2] font-medium'>At TaxiDaniel, our mission is to deliver more than just transportation – we're here to provide travel experiences that leave you feeling relaxed and refreshed.</p>
           {/* bullet points */}
